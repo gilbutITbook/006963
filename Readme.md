@@ -9,20 +9,20 @@
 
 - 다음 환경에서 테스트했습니다. 
 
-Node.js 9
-npm 6.0.1
-wish 1.0.0(저자가 만든 라이브러리, 모든 OS에서 실행 가능)
-mocha 3.2.0
-deep-equal 1.0.1
-testdouble 1.10.0
-tape 4.6.3
-lodash 4.17.2
-assert 1.4.1
-underscore 1.8.3
-ramda 0.22.1
-sanctuary 0.11.1
+Node.js 9<br/>
+npm 6.0.1<br/>
+wish 1.0.0(저자가 만든 라이브러리, 모든 OS에서 실행 가능)<br/>
+mocha 3.2.0<br/>
+deep-equal 1.0.1<br/>
+testdouble 1.10.0<br/>
+tape 4.6.3<br/>
+lodash 4.17.2<br/>
+assert 1.4.1<br/>
+underscore 1.8.3<br/>
+ramda 0.22.1<br/>
+sanctuary 0.11.1<br/>
 
-최신 버전은 괜찮지만, 이전 버전은 문제가 될 수 있습니다. Node.js 하위 버전에서는 이 책의 코드들이 실행되지 않을 수 있습니다.
+- 최신 버전은 괜찮지만, 이전 버전은 문제가 될 수 있습니다. Node.js 하위 버전에서는 이 책의 코드들이 실행되지 않을 수 있습니다.
 
 - 예제 파일은 장별로 구분되어 있습니다.
 
