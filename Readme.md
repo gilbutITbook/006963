@@ -2,7 +2,7 @@
 =======================
 
 <리팩토링 자바스크립트> 도서의 예제 파일입니다.<br/>
-원서명: <Refactoring JavaScript>(O'Reilly, 2017)
+원서명: Refactoring JavaScript(O'Reilly, 2017)
 
 
 ## 예제 파일 테스트 환경 및 구성
