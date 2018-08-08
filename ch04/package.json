@@ -1,0 +1,16 @@
+{
+  "name": "ch04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "check-hand-2.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "deep-equal": "^1.0.1",
+    "wish": "file:wish"
+  }
+}
